@@ -1,8 +1,10 @@
 # ADV360-PRO-ZMK
 
+Takas fork
+
 ## Modifying the keymap
 
-There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI
+There is a GUI for editing the keymap. It is available at https://kinesiscorporation.github.io/Adv360-Pro-GUI.
 
 ## Building the Firmware with GitHub Actions
 
